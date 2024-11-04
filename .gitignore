@@ -1,0 +1,17 @@
+.vs/
+bin/
+obj/
+*.user
+*.suo
+*.sln.ide
+*.ncb
+*.sdf
+*.opensdf
+*.dbmdl
+*.dbproj.schemaview
+*.jfm
+*.cache
+*.pdb
+*.ipch/
+*.log
+*.vs/
